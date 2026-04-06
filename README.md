@@ -44,18 +44,19 @@ This project analyzes global startup funding data to uncover trends in investmen
 ---
 
 ## 📊 Dashboard
-- Interactive dashboard created using Looker Studio / Tableau
-- Visualizes funding trends, top countries, and industries
 
-*(Dashboard link will be added soon)*
+An interactive dashboard built using Google Looker Studio to visualize global startup funding trends.
 
----
+🔗 View Project Repository:
+https://github.com/MeghaKA/Global_Startup_Funding_analysis
 
-## 🚧 Project Status
-🟡 Ongoing — Dashboard development in progress
+### Key Highlights:
+- Funding trends over time
+- Top cities and countries by investment
+- Industry-wise funding distribution
+- Funding type analysis
 
----
-
+![Dashboard](Dashboard.png)
 ## 📌 Future Improvements
 - Add more advanced analytics
 - Build predictive models
