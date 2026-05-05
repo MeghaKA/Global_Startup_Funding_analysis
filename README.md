@@ -1,69 +1,95 @@
 # 🚀 Global Startup Funding Analysis
 
-## 📊 Project Overview
-This project analyzes global startup funding data to uncover trends in investment, identify top-performing industries and countries, and generate actionable business insights.
+## 🎯 Overview
+
+This project analyzes global startup funding data to identify **investment trends, high-growth regions, and industry patterns**.
+
+The goal is to transform raw funding data into **actionable business insights** that can support strategic decision-making.
 
 ---
 
-## 🎯 Objectives
-- Analyze funding trends over time
-- Identify top countries and industries receiving investment
-- Understand growth patterns in startup ecosystems
-- Build interactive dashboards for business insights
+## 📊 Dataset
+
+Global startup funding dataset containing:
+- Funding amount  
+- Year of investment  
+- Country and city  
+- Industry/sector  
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy)
-- SQL (for querying data)
-- Google BigQuery (for cloud-based analysis)
-- Looker Studio / Tableau (for dashboard visualization)
+## ⚙️ Tools & Technologies
+
+- Python (Pandas, NumPy)  
+- SQL  
+- Google BigQuery  
+- Looker Studio / Tableau  
 
 ---
 
-## 📂 Dataset
-- Global startup funding dataset
-- Includes data on funding amount, year, country, and industry
+## 🚀 Project Workflow
+
+1. Data Cleaning and Preprocessing  
+2. Exploratory Data Analysis (EDA)  
+3. Trend and Pattern Analysis  
+4. Business Insight Generation  
+5. Dashboard Visualization  
 
 ---
 
-## 🔍 Key Analysis Performed
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Trend analysis over time
-- Country-wise and industry-wise funding analysis
+## 🔍 Key Analysis
+
+- Funding trends over time  
+- Country-wise investment distribution  
+- Industry-wise funding patterns  
+- Identification of high-growth startup ecosystems  
 
 ---
 
 ## 📈 Key Insights
-- Significant growth in startup funding observed after 2000
-- Certain countries dominate global investment
-- Technology sectors receive the highest funding
-- Investment patterns show increasing global expansion
+
+- Startup funding shows significant growth in recent years  
+- A few countries dominate global investment activity  
+- Technology sectors receive the majority of funding  
+- Investment patterns indicate expansion across global markets  
+
+---
+
+## 🧠 Key Focus
+
+This project emphasizes:
+- Identifying **investment patterns in global markets**  
+- Translating data into **business insights**  
+- Supporting **data-driven strategic decisions**  
 
 ---
 
 ## 📊 Dashboard
 
-An interactive dashboard built using Google Looker Studio to visualize global startup funding trends.
+<p align="center">
+  <img src="Dashboard.png" width="700"/>
+</p>
 
-🔗 View Project Repository:
-https://github.com/MeghaKA/Global_Startup_Funding_analysis
+---
 
-### Key Highlights:
-- Funding trends over time
-- Top cities and countries by investment
-- Industry-wise funding distribution
-- Funding type analysis
+## 💡 Why This Matters
 
-![Dashboard](Dashboard.png)
-## 📌 Future Improvements
-- Add more advanced analytics
-- Build predictive models
-- Improve dashboard interactivity
+Understanding funding trends helps:
+- Identify emerging markets and industries  
+- Support investment and business strategy decisions  
+- Analyze global startup ecosystem growth  
+
+---
+
+## 🔮 Future Work
+
+- Build predictive models for funding trends  
+- Integrate advanced analytics techniques  
+- Enhance dashboard interactivity  
 
 ---
 
 ## 👩‍💻 Author
-Megha K A  
-Data Analyst | MSc Data Analytics
+
+**Megha K A**  
+Data Analyst | Machine Learning | Python | SQL
